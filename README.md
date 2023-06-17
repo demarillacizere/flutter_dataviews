@@ -1,4 +1,4 @@
-# dataviews
+# Data Views
 
 A new Flutter project.
 
